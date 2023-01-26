@@ -10,12 +10,10 @@
 </a>
 
 <br/>
-
-I am an aspiring Software Engineer keen to get back into IT, having just finished my Software Engineering Bootcamp through a Department for Education scholarship. I am a creative individual who finds developing software solutions immensely rewarding.
-
-Apart from coding, I love teaching Scratch, micro:bit and researching for IOT modules for my children.
+<br/>
+I am an aspiring Software Engineer keen to get back into IT who has just finished the Software Engineering Bootcamp through a Department for Education scholarship. I am a creative individual who finds developing software solutions immensely rewarding. I am always eager to learn new technologies and to utilize my knowledge to my highest ability.
 
 - ✨ Tech Stack: Python, SQL and Databases, Object-Oriented Programming, Django, HTML, CSS, Java, Git
 - 🌱 I’m currently learning Django Rest framework.
 - 📫 How to reach me: dhivya.subramanian@hotmail.com
-- ⚡ Fun fact: I love embroidery and crocheting.
+- ⚡ Fun facts: Apart from coding, I love teaching Scratch, micro:bit and researching for IOT modules for my children.

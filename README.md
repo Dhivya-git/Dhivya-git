@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Dhivya!](https://dhivya-git.github.io/)
 <picture>
-   <img alt="Dhivya's picture" src="dhivya.jpeg">
+   <img alt="Dhivya's picture" src="dhivya.png">
 </picture>
 
 <br/>
